@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "u-row": "/uni_modules/uview-ui/components/u-row/u-row",
+    "u-col": "/uni_modules/uview-ui/components/u-col/u-col",
+    "u-search": "/uni_modules/uview-ui/components/u-search/u-search",
+    "u-swiper": "/uni_modules/uview-ui/components/u-swiper/u-swiper",
+    "u-tabs": "/uni_modules/uview-ui/components/u-tabs/u-tabs",
+    "goods": "/pages/goods/goods"
+  }
+}

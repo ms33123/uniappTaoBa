@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-row": "/uni_modules/uview-ui/components/u-row/u-row",
+    "u-col": "/uni_modules/uview-ui/components/u-col/u-col",
+    "u--image": "/uni_modules/uview-ui/components/u--image/u--image",
+    "useremail": "/components/useremail",
+    "my-services": "/components/MyServices",
+    "cell": "/components/Cell"
+  }
+}

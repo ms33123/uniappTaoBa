@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "发闲置",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#dee9ff",
+  "usingComponents": {
+    "u-form": "/uni_modules/uview-ui/components/u-form/u-form",
+    "u-form-item": "/uni_modules/uview-ui/components/u-form-item/u-form-item",
+    "u--input": "/uni_modules/uview-ui/components/u--input/u--input",
+    "u--textarea": "/uni_modules/uview-ui/components/u--textarea/u--textarea",
+    "u-upload": "/uni_modules/uview-ui/components/u-upload/u-upload",
+    "u-modal": "/uni_modules/uview-ui/components/u-modal/u-modal"
+  }
+}
